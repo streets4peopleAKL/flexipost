@@ -1,2 +1,2 @@
 # flexipost
-How to make  flexipost
+How to make a flexipost
